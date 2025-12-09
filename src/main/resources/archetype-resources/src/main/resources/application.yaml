@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: ${artifactId}
+
+springdoc:
+  show-actuator: true
+  swagger-ui.enabled: true
+  api-docs.enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,env,beans,httpexchanges,loggers

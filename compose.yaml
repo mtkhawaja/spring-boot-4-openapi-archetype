@@ -1,0 +1,9 @@
+services:
+  server:
+    build:
+      context: .
+    environment:
+      GENERATED_GROUP_ID: "com.example"
+      GENERATED_ARTIFACT_ID: "api"
+      GENERATED_PACKAGE: "com.example.api"
+      GENERATED_VERSION: "0.0.1-SNAPSHOT"
