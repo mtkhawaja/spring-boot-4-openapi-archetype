@@ -22,7 +22,7 @@ Maven Archetype for generating basic Java 25 Spring Boot 4 projects with OpenAPI
 mvn archetype:generate \
   -DarchetypeGroupId="com.muneebkhawaja" \
   -DarchetypeArtifactId="spring-boot-4-openapi-archetype" \
-  -DarchetypeVersion="0.0.1-SNAPSHOT" \
+  -DarchetypeVersion="1.0.0" \
   -DgroupId="com.example" \
   -DartifactId="api" \
   -Dpackage="com.example.api" \

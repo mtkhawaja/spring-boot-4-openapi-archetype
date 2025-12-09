@@ -17,7 +17,7 @@
     </description>
 
     <properties>
-        <revision>0.0.1-SNAPSHOT</revision>
+        <revision>1.0.0</revision>
         <java.version>25</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Plugins -->
@@ -150,7 +150,7 @@
                             <maven>
                                 <mavenCentral>
                                     <sonatype>
-                                        <active>ALWAYS</active>
+                                        <active>RELEASE</active>
                                         <url>https://central.sonatype.com/api/v1/publisher</url>
                                         <stagingRepositories>target/staging-deploy</stagingRepositories>
                                     </sonatype>

@@ -42,11 +42,10 @@ For further reference, please consider the following sections:
 
 ### SpringBoot
 
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.0/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.0/maven-plugin/reference/html/#build-image)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.1.0/reference/htmlsingle/#using.devtools)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.0/reference/htmlsingle/#web)
-* [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/3.1.0/reference/htmlsingle/#actuator)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/maven-plugin/index.html)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/reference/using/devtools.html)
+* [Spring Web](https://docs.spring.io/spring-boot/reference/web/index.html)
+* [Spring Boot Actuator](https://docs.spring.io/spring-boot/reference/actuator/index.html#actuator)
 
 ### OpenAPI
 

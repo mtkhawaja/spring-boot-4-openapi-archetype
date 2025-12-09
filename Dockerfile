@@ -6,7 +6,7 @@ WORKDIR /opt/application/generated
 CMD mvn archetype:generate \
   -DarchetypeGroupId="com.muneebkhawaja" \
   -DarchetypeArtifactId="spring-boot-4-openapi-archetype" \
-  -DarchetypeVersion="0.0.1-SNAPSHOT" \
+  -DarchetypeVersion="1.0.0" \
   -DgroupId=${GENERATED_GROUP_ID:-"com.example"} \
   -DartifactId=${GENERATED_ARTIFACT_ID:-"api"} \
   -Dpackage=${GENERATED_PACKAGE:-"com.example.api"} \
